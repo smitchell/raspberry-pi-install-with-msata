@@ -51,7 +51,6 @@
 /etc/deluser.conf
 /etc/dhcp/*.d
 /etc/dhcp/debug
-/etc/dhcpcd.conf
 /etc/dphys-swapfile
 /etc/dpkg
 /etc/fake-hwclock.data
