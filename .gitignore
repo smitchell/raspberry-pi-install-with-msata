@@ -31,6 +31,7 @@
 /etc/alternatives
 /etc/apparmor.d
 /etc/apt
+/etc/apm
 /etc/avahi
 /etc/bash.bashrc
 /etc/bash_completion
@@ -60,9 +61,11 @@
 /etc/gdb
 /etc/groff
 /etc/grou*
+/etc/hdparm.conf
 /etc/gshado*
 "/etc/shadow-"
 /etc/shadow-
+/etc/smartd.conf
 /etc/gss
 /etc/idmapd.conf
 /etc/ifplugd
@@ -136,6 +139,7 @@
 /etc/shadow
 /etc/shells
 /etc/skel
+/etc/smartmontools
 /etc/ssh
 /etc/ssl
 /etc/subgid
